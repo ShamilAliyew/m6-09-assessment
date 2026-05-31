@@ -1,0 +1,1 @@
+"""Cat detector inference package."""

@@ -2,6 +2,14 @@
 
 # Final Assessment | Cat Detection v2 — Improve, Export to ONNX, Containerise & Compete
 
+## Image for leaderboard
+
+docker pull shamilaliyev/cat-detector:final
+
+Image: shamilaliyev/cat-detector:final
+
+Student: Shamil Aliyev
+
 ## Overview
 
 This is the **final assessment** of Unit 6, and it has three parts that fit together:
